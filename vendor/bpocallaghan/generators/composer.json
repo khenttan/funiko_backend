@@ -1,0 +1,51 @@
+{
+    "name": "bpocallaghan/generators",
+    "description": "Custom Laravel File Generators with config and publishable stubs.",
+    "keywords": [
+        "laravel",
+        "generators",
+        "stubs",
+        "config",
+        "commands",
+        "customization"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben-Piet O'Callaghan",
+            "email": "bpocallaghan@gmail.com",
+            "homepage": "http://bpocallaghan.co.za",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "symfony/console": "^5.0",
+        "laravel/framework": "^8.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bpocallaghan\\Generators\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bpocallaghan\\Generators\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bpocallaghan\\Generators\\GeneratorsServiceProvider"
+            ]
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

@@ -1,0 +1,198 @@
+@media only screen and (min-width:768px) and (max-width:1169px){}
+@media only screen and (min-width:0px) and (max-width:767px){}
+@media (min-width: 992px){
+button#menu-button{display:none}
+a#close{display:none}
+.navbar-expand-lg .navbar-collapse{display:flex!important;flex-basis:auto;    justify-content: flex-end;}
+.navbar-expand-lg .navbar-toggler{display:none}
+ul.navbar-nav{margin-bottom:0!important;margin-right:20px!important;    flex-direction: row;}
+}
+
+
+@media (max-width: 1199px){
+
+
+.download-stack-app-L .shape-4{display:none}
+.banner-top-inner{padding-top:140px;padding-bottom:60px}
+.fetures-list li figcaption{padding-left:4px}
+.comm-space{padding-top:45px;padding-bottom:45px}
+.awesome-fetures.comm-space{padding-bottom:0}
+.banner-top-L h1{font-size:48px;line-height:60px}
+.common-heading h2{font-size:38px}
+.awesome-fetures-box-C figure img{width:90%}
+.even-variations-L figure img,.odd-variations-L figure img{width:80%}
+.app-screenshots .owl-carousel .owl-item img{width:100%}
+.download-stack-app-L figure img{width:370px}
+.qoutes-content{margin:0 100px}
+.qoutes-content{margin:0}
+.qoutes-content p{padding:0 40px}
+.qoutes-content i.ri-double-quotes-l{left:0;top:0}
+.img-content h4{font-size:20px}
+.img-content small{font-size:18px}
+.img-content{margin-top:18px}
+.bubble-holder{height:749px}
+.inner-banner figure img{height:275px}
+.banner-inner-content h4{font-size:32px}
+.inner-spce-bottom{padding-top:55px;padding-bottom:50px}
+.about-top h2, .inner-page-sub-title {font-size: 30px;}
+}
+
+
+@media (max-width: 991px){
+.terms-policy-content-R figure img{width:300px;height:auto}
+.banner-top-R figure img{width:210px}
+.terms-policy-content-L{flex:1;padding-right:20px}
+.terms-policy-content-main{display:var(--flex-disply);align-items:center}
+.terms-policy-content-L p{font-size:14px}
+.terms-policy-content-L h4,.terms-policy-content-box h4{font-size:22px;padding-bottom:10px}
+.terms-policy-content-box p{font-size:14px}
+.inner-spce-bottom{padding-top:30px;padding-bottom:30px}
+.navbar-collapse{background-color:#000;position:fixed;top:0;left:-350px;z-index:9;width:300px;height:100vh;transition:.3s;padding-top:40px}
+.navbar-collapse.show{transition:.5s;left:0;margin-left:0}
+.nave-bar .hide-menu.show-menu li.nav-item a{color:#fff!important;padding:10px 15px!important;border-bottom:1px solid #dddddd38;font-size:14px}
+button.navbar-toggler{position:absolute;right:0;z-index:99;display:flex;align-items:center;justify-content:center;padding:0;line-height:normal}
+span.navbar-toggler-icon i{color:#fff;font-size:22px}
+.header-btn-group{display:flex;padding-right:48px}
+.header-btn{font-size:12px;height:38px;width:80px}
+.header-btn{margin-left:7px}
+span.navbar-toggler-icon{display:flex;align-items:center;justify-content:center;height:35px;width:38px;border-radius:4px;background:#000}
+.download-app-btn{height:35px;font-weight:400}
+.nav-L .navbar-brand{margin-right:0;padding:0}
+.navbar{padding:8px 0}
+.banner-top-inner{padding-top:115px}
+.banner-top-R figure img{width:215px}
+.banner-top-L h1{font-size:46px;line-height:54px}
+.awesome-fetures-box-C{width:100%}
+.awesome-fetures-box-C figure img{width:235px}
+.awesome-fetures-box-L{width:50%;order:2}
+.awesome-fetures-box-R{width:50%}
+.common-heading h2{font-size:28px}
+.even-variations-L figure img,.odd-variations-L figure img{width:auto}
+ul.common-heading-list li{font-size:14px}
+.col-md-7.m-auto.mb-4{width:75%}
+.common-heading p{font-size:14px}
+ul.fetures-list li{margin:50px 0 50px}
+.footer-content:first-child{width:100%;margin-bottom:25px}
+.footer-content.ps-4{padding-left:15px!important}
+.footer-content{width:33%}
+.footer-menu{padding:28px 0 28px 0}
+.owl-dots{margin-top:40px}
+.sticky span.navbar-toggler-icon{background:#2591c0}
+.nav-R .navbar-nav li.nav-item{padding:10px 15px!important;border-bottom:1px solid #dddddd40}
+.nav-R .navbar-nav .nav-link{color:#fff}
+.nav-R .nav-item .nav-link:before,.nav-R .nav-item .nav-link:after{bottom:-11px}
+.gallery-slider .swiper-slide{margin-bottom:40px}
+.col-md-7.m-auto.mb-4{margin-bottom:0!IMPORTANT}
+.qoutes-content{font-size:14px}
+.our-testimonials.comm-space{padding-bottom:30px;padding-top:30px}
+.bubble-holder{height:599px}
+.our-mission-left{width:100%}
+.our-mission-right{margin:auto;margin-bottom:20px;width:100%}
+.our-mission.row{padding-top:40px;padding-bottom:0}
+.about-top h2,.inner-page-sub-title{font-size:25px;margin-bottom:0!IMPORTANT}
+.about-top h2{width:100%}
+.about-top figure img{height:auto}
+.our-team-box{width:50%;margin-bottom:30px}
+.contact-us-R{padding-left:0;padding-top:30px}
+}
+
+
+
+
+@media (max-width: 767px){
+
+.terms-policy-content-L{flex:initial;padding-right:20px;width:100%}
+.terms-policy-content-main{flex-wrap:wrap;justify-content:center}
+.terms-policy-content-L{flex:initial;padding-right:0;order:1;margin-top:20px}
+.terms-policy-content-box{margin-bottom:20px}
+.inner-banner figure img{height:210px}
+.banner-inner-content h4{font-size:25px;padding:12px 25px}
+.bubble-holder{height:423px}
+.even-variations-L figure img,.odd-variations-L figure img{width:230px;margin:auto;display:block;margin-bottom:30px}
+.banner-top-R figure img{width:125px}
+.banner-top-L p{padding-right:0}
+.banner-top-L h1{font-size:40px;line-height:45px}
+span.shape-1{display:none}
+.shape-2{left:0;right:auto}
+.awesome-fetures-box-C figure img{width:180px}
+ul.fetures-list li figcaption h4{font-size:18px}
+.fetures-list li figure i{font-size:28px}
+.fetures-list li figure{flex:0 0 55px;height:55px}
+.comm-space{padding-top:35px;padding-bottom:40px}
+.col-md-6.odd-variations-R{order:2}
+.banner-top-L h1{font-size:35px;line-height:45px}
+.download-stack-app-R{width:100%}
+.download-stack-app-L{width:100%;text-align:center!important}
+.download-stack-app-R{order:2;padding-top:40px;padding-bottom:25px}
+.download-stack-app-L figure img{width:275px}
+a.banner-btn.common-btn{margin-top:0}
+.footer-top-left p{font-size:14px}
+.footer-content li a{font-size:14px}
+.bottom-footer{padding:18px 0}
+.qoutes-content i.ri-double-quotes-l,.qoutes-content i.ri-double-quotes-r{font-size:30px}
+.qoutes-content p{padding:0 30px}
+.contact-us-box.inner-spce-bottom .col-7{width:100%;order:2}
+.contact-us-box.inner-spce-bottom .col-5{width:100%}
+.contact-us-R ul.contact-info li{margin-bottom:15px}
+.contact-us-box.inner-spce-bottom .col-7{width:100%;order:2;margin-top:22px}
+.contact-us-R{padding-left:0;padding-top:0}
+.contact-us-box .inner-title{font-size:26px}
+
+}
+
+
+@media (max-width: 575px){
+.banner-top-L h1{font-size:26px;line-height:28px}
+.bubble-holder{height:421px}
+.banner-top-L p{font-size:14px}
+.banner-btn{width:134px;height:38px;font-size:12px;margin-top:15px}
+.shape-3{display:none}
+.shape-4{display:none}
+.banner-top-inner{padding-top:115px;padding-bottom:35px}
+.common-heading h2{font-size:24px}
+.col-md-7.m-auto.mb-4{width:90%}
+.awesome-fetures-box-R{width:100%}
+.awesome-fetures-box-L{width:100%;order:1}
+ul.fetures-list li{margin:0 0 30px}
+.awesome-fetures-box-C{width:100%;margin-bottom:40px}
+.common-heading.text-center.mb-4.pb-1{margin-bottom:0!important}
+.owl-dots button span{width:26px;height:6px}
+.bubble-small{width:40px;height:40px}
+.bubble-holder{height:396px}
+ul.fetures-list li figcaption h4{padding-bottom:5px}
+.qoutes-content p{padding:0 20px}
+.gallery.Testimonials-sliders{margin-top:31px}
+.our-mission-left{width:100%;text-align:center}
+}
+
+
+@media (max-width: 480px){
+.banner-top-L{flex:0 0 35%}
+.banner-top-R{flex:1}
+.banner-top-L{flex:0 0 250px;width:250px}
+.banner-top-L h1{font-size:20px;line-height:20px}
+.banner-top-inner{padding-top:90px}
+.banner-top-L{flex:0 0 250px;width:250px;padding-right:25px}
+.banner-top-L p{font-size:14px;line-height:1.6}
+.banner-btn i{font-size:18px;padding-right:5px}
+.banner-btn{margin-right:15px}
+.download-app-btn{font-size:13px}
+.button-container-2{width:130px}
+a.navbar-brand img{width:125px}
+.banner-top-inner{padding-top:80px}
+.common-heading-list{margin-bottom:20px}
+.sticky .navbar{padding:5px 0}
+.bubble-holder{height:287px}
+.footer-content{width:50%}
+.footer-content li{padding:3px 0}
+.footer-content:last-child{margin-top:15px}
+.item figure img{width:125px}
+.swiper-slide.swiper-slide-active .item figure img{width:100%;padding:5px}
+.inner-banner figure img{height:155px}
+.banner-inner-content h4{font-size:15px;padding:8px 17px}
+.banner-inner-content{top:109px}
+.our-team-box{width:100%;margin-bottom:30px}
+.inner-comm-heading.text-center.mb-5{margin-bottom:20px!important}
+.our-team.mb-5{margin-bottom:0!important}
+.box-shadow-comm{padding:30px 15px 30px}
+}

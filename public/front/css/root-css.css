@@ -1,0 +1,106 @@
+/*--------------------------------------------------------------------------------------*/
+/*varible-define
+/*--------------------------------------------------------------------------------------*/
+:root {
+
+/***home****/
+
+--font-14:14px;
+--bg-font: 16px;
+--text-font16:16px;
+--text-font18:18px;
+--text-font22:22px;
+--common-color:#F8AE39;
+--body-line-height: 24px;
+--body-font:'Roboto', sans-serif;
+--color-white:#fff;
+--body-color: #000;
+--bg-white: #fff;
+--color-black:#000;
+--bg-black:#000;
+--font-weight-sbold:600 ;
+--font-weight-bold:700 ;
+--font-weight-mdm: 500;
+--font-weight-regular:400 ;
+--font-weight-light:300 ;
+--font-weight-ebold: 800;
+--border-radius:50%;
+--border-radius-4:4px;
+--border-radius-6:6px;
+--border-radius-10:10px;
+--border-radius-20:20px;
+--text-uppercase: uppercase;
+--flex-disply: flex;
+--flex-align: center;
+--flex-justify: center;
+--flex-justify-sb: space-between;
+--flex-justify-end: flex-end;
+--text-center: center;
+--text-left:left;
+--text-right:right;
+--position-abso:absolute;
+--position-rel:relative;
+--border-line: 1px solid #E8E6E6;
+--full-width:100%;
+--inner-text-color: #A5A5A5;
+--bg-odd:rgb(41 103 138 / 06%);
+--placeholder-color:#C6C6C6;
+
+
+--ml-10:10px;
+--ml-15:15px;
+--ml-20:20px;
+--ml-25:25px;
+
+--mr-10:10px;
+--mr-15:15px;
+--mr-20:20px;
+
+--mt-10:10px;
+--mt-15:15px;
+--mt-20:20px;
+--mt-25:25px;
+--mt-30:30px;
+
+--mb-10:10px;
+--mb-15:15px;
+--mb-20:20px;
+--mb-25:25px;
+--mb-30:30px;
+--mb-40:40px;
+
+
+--pb-10:10px;
+--pb-15:15px;
+--pb-20:20px;
+--pb-25:25px;
+--pb-30:30px;
+
+--pt-10:10px;
+--pt-15:15px;
+--pt-20:20px;
+--pt-25:25px;
+--pt-30:30px;
+
+--pr-10:10px;
+--pr-15:15px;
+--pr-35:35px;
+
+--pl-10:10px;
+--pl-15:15px;
+--pl-20:20px;
+--pl-35:35px;
+--pl-25:25px;
+
+
+
+/*--------------------------------------------------------------------------------------*/
+/*logni-css
+/*--------------------------------------------------------------------------------------*/
+
+
+
+/*--------------------------------------------------------------------------------------*/
+/*inner-pages-css
+/*--------------------------------------------------------------------------------------*/
+

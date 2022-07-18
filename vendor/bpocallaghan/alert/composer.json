@@ -1,0 +1,34 @@
+{
+    "name": "bpocallaghan/alert",
+    "description": "A helper package to flash a bootstrap alert to the browser.",
+    "keywords": ["laravel", "alert", "notification", "flash", "message"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben-Piet O'Callaghan",
+            "email": "bpocallaghan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bpocallaghan\\Alert\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bpocallaghan\\Alert\\AlertServiceProvider"
+            ],
+            "aliases": {
+                "Alert": "Bpocallaghan\\Alert\\Facades\\Alert"
+            }
+        }
+    }
+}
